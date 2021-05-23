@@ -1,0 +1,17 @@
+/* Write you CSS here */
+.filters-container {
+  display: flex;
+}
+.each {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+}
+.label {
+  font-size: 13px;
+  color: #475569;
+}
+.drop-down {
+  border: 1px solid #475569;
+  width: 100px;
+}

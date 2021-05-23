@@ -1,0 +1,21 @@
+/* Write you CSS here */
+.bg-container {
+  background-color: #2b237c;
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+}
+.bg-img {
+  width: 30vw;
+}
+.h1-bg {
+  align-self: center;
+  color: white;
+  font-family: Playfair Display;
+  font-size: 40px;
+  padding-left: 40px;
+  width: 30vw;
+}
+.container {
+  padding: 40px;
+}
